@@ -1,0 +1,5 @@
+name: Sample_React_NodeJS
+packages:
+  - path: src
+language: javascript
+appmap_dir: tmp/appmap
